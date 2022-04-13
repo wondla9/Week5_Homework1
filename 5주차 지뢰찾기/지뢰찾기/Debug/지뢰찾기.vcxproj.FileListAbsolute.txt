@@ -1,0 +1,2 @@
+C:\Users\edyba\Desktop\동아대5\5주차 지뢰찾기\지뢰찾기\Debug\지뢰찾기.exe
+C:\Users\edyba\Desktop\동아대5\5주차 지뢰찾기\지뢰찾기\Debug\지뢰찾기.pdb
